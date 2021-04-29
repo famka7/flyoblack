@@ -62,7 +62,7 @@
       <div class="container d-flex my-5 justify-content-center">
         <img
           src="images/illustration-intro.png"
-          class="justify-content-center col-lg-6 col-10"
+          class="col-lg-8 col-10"
           alt=""
         />
       </div>
